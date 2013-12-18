@@ -25,7 +25,7 @@ INSTALL:
 
   Or
 
-    go get github.com/mattn/go-gtk/gtk
+    go get github.com/d2r2/go-gtk/gtk
 
   Don't forget, that you need the GTK-Development-Packages.
 
